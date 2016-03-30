@@ -1,0 +1,15 @@
+{
+  "short_name": "Molecular",
+  "name": "Molecular App ++",
+  "icons": [
+    {
+      "src": "./img/molecular.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "red"
+}
