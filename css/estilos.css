@@ -1,0 +1,15 @@
+html {
+  background: url(../img/1280_wallpaper2.jpg) repeat center center fixed;
+}
+
+body {
+  font-family: OxygenRegular, 'Open Sans', sans-serif;
+  margin: 0px;
+  font-size: 1.2em;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  margin-top: 100px ;
+}
